@@ -17,12 +17,6 @@ questions: {
         noBtn: "No"                                // No button text
     }
 }
-
-// Love Meter Messages
-loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
